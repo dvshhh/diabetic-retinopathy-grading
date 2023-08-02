@@ -1,0 +1,1 @@
+71.62% is the accuracy of resnet model with data augumentation and attention included
